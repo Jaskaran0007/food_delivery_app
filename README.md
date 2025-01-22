@@ -1,0 +1,1 @@
+This project is a Food Delivery application that allows users to order food online and have it delivered to their location. It includes features like user authentication, food menu browsing, and an order placement system.
